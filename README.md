@@ -5,4 +5,5 @@
 ##### :meat_on_bone: Meat lover
 ##### ⚡ Hobby: 🏀 🎸 📷
 ##### 🖥 My Blog：[👉Click](https://blog.srpihot.site)
-##### 📚 Agricultural Informatization Master(Studying) 
+##### 📚 Agricultural Informatization Master(Graduated) 
+##### 📚 Finance Master(Studying)
