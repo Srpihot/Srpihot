@@ -1,7 +1,7 @@
 # Hi I'm Srpihot 👋
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srpihot&layout=compact&theme=gruvbox&count_private=false&hide=Blade" />
 
-##### :orange_book: Focusing on Web security & vibe coding
+##### :orange_book: Focusing on A-share stock Quant & vibe coding
 ##### :meat_on_bone: Meat lover
 ##### ⚡ Hobby: 🏀 🎸 📷
 ##### 🖥 My Blog：[👉Click](https://blog.srpihot.site)
